@@ -127,15 +127,15 @@ export const TIMELINE: TimelineItem[] = [
     year: "2024",
     title: "UI/UX Designer Intern",
     category: "Experience",
-    description: "Joined as a UI/UX Designer Intern, working on user research, wireframing, interface design, prototyping, and improving usability for digital products.",
+    description: "Joined a NGO as a UI/UX Designer Intern, working on user research, wireframing, interface design, prototyping, and improving usability for digital products.",
     details: ["Conducted qualitative research audits and created detailed user journey maps.", "Developed high-fidelity prototypes and conducted usability test reviews."],
     coordinates: { x: 55, y: 50 }
   },
   {
     year: "2025",
-    title: "UI/UX Designer Intern (Scale)",
+    title: "UI/UX Designer Intern",
     category: "Experience",
-    description: "Collaborated with product and development teams to design digital products, improve user experiences, and maintain interactive design systems.",
+    description: "Designed a mobile application, collaborated with product and development teams to design digital products, improve user experiences, and maintain interactive design systems.",
     details: ["Created modular wireframes, prototypes, and high-fidelity layouts.", "Established robust handoff documents with dev teams to ensure pixel-perfect builds."],
     coordinates: { x: 75, y: 65 }
   },
